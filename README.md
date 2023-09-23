@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik-mohan23&label=Profile%20views&color=0e75b6&style=flat" alt="karthik-mohan23" /> </p>
 
+- I’m currently working on **MERN ecommerce website**
 - 🌱 I’m currently learning **MERN stack**
 
 - 👨‍💻 All of my projects are available at [https://karthikmohan.netlify.app/](https://karthikmohan.netlify.app/)
