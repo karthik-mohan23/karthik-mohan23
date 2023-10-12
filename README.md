@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on MERN ecommerce website<br>👨‍💻 All of my projects are available at https://karthikmohan.netlify.app/<br>🌱 I’m currently learning MERN stack<br>💬 Ask me about Web development<br>
+🔭 I’m currently working on MERN ecommerce website<br>👨‍💻 All of my projects are available at [Karthik.dev](https://karthikmohan.netlify.app/)<br>🌱 I’m currently learning MERN stack<br>💬 Ask me about Web development<br>
 
 
 ## 🌐 Socials:
@@ -13,8 +13,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=karthik-mohan23&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-mohan23&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=karthik-mohan23&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
