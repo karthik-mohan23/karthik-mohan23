@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Karthik Mohan</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
 
-- 🌱 I’m currently learning **MERN stack**
+
 
 - 👨‍💻 All of my projects are available at [Karthik.dev](https://kartikmohan.vercel.app/)
-
-- 💬 Ask me about **Web development**
 
 - 📫 How to reach me **karthikmohan2310@gmail.com**
 
