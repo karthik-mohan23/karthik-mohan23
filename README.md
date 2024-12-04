@@ -3,7 +3,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [Karthik.dev](https://karthik-dev-fawn.vercel.app/)
+- 👨‍💻 All of my projects are available at [Karthik.dev](https://karthik-mohan.vercel.app/)
 
 - 📫 How to reach me **karthikmohan2310@gmail.com**
 
